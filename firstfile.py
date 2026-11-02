@@ -7,3 +7,5 @@ def my_name(name,dislikes,likes):
     return f"my name is {name}, and I love {likes}, and certainly do not like {dislikes}"
     
 print(my_name("Katenwa","untruthfulness","Reading"))
+
+print("Etitobi toooo Jesu")
