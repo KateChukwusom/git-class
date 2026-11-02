@@ -1,0 +1,4 @@
+bootcamp = "devops"
+
+print(bootcamp)
+
